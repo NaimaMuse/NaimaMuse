@@ -1,6 +1,4 @@
-## Profile Social Accounts
 
-[![Instagram](https://img.shields.io/badge/Instagram-#E4405F?style=social&logo=Instagram)](https://www.instagram.com/miss_nacuumi)
 
 <h1 align="center">Hi 👋, I'm Naima</h1>
 <h3 align="center">I’m a software engineering student, passionate about tech and development!</h3>
@@ -32,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naimamuse&show_icons=true&locale=en&layout=compact" alt="naimamuse" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naimamuse&show_icons=true&locale=en" alt="naimamuse" /></p>
+
+[![Instagram](https://img.shields.io/badge/Instagram-#E4405F?style=social&logo=Instagram)](https://www.instagram.com/miss_nacuumi)
