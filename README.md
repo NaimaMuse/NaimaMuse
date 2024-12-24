@@ -1,3 +1,7 @@
+## Profile Social Accounts
+
+[![Instagram](https://img.shields.io/badge/Instagram-#E4405F?style=social&logo=Instagram)](https://www.instagram.com/miss_nacuumi)
+
 <h1 align="center">Hi 👋, I'm Naima</h1>
 <h3 align="center">I’m a software engineering student, passionate about tech and development!</h3>
 
