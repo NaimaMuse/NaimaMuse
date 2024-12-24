@@ -31,4 +31,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naimamuse&show_icons=true&locale=en" alt="naimamuse" /></p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-#E4405F?style=social&logo=Instagram)](https://www.instagram.com/miss_nacuumi)
