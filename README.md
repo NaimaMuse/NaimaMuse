@@ -1,21 +1,15 @@
 <h1 align="center">Hi 👋, I'm Naima Muse</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 
-- 🔭 I’m currently working on [somali freelancer system](https://github.com/NaimaMuse)
-
 - 🌱 I’m currently learning **full-stack , code in place**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NaimaMuse](https://github.com/NaimaMuse)
 
 - 📝 I regularly write articles on [https://naimamuse.substack.com](https://naimamuse.substack.com)
 
-- 💬 Ask me about **python, php, javascript**
-
 - 📫 How to reach me **naciimaaahmed@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/naima-muse-61228a338/](https://www.linkedin.com/in/naima-muse-61228a338/)
-
-- ⚡ Fun fact **I can't go a single day without coffee ☕**
 
 <h3 align="left">Connect with me:</h3>
 
