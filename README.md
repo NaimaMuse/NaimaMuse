@@ -14,10 +14,13 @@
 <h3 align="left">Connect with me:</h3>
 
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/naima-muse-61228a338?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
+## 🌐 Social Media
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourname)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
+
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/yourname)
 
 
   <a href="https://instagram.com/am_naimaaa" target="blank">
