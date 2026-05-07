@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Naima Muse</h1>
-<h3 align="center">A passionate MERN Stack Developer</h3>
+<h3 align="center">MERN Stack Developer | Passionate About Building Web Apps</h3>
 
-- 🌱 I’m currently learning **full-stack , code in place**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/NaimaMuse](https://github.com/NaimaMuse)
+🌱 Currently learning: Full-Stack Development (MERN) & Code in Place  
+💻 Focused on building clean and scalable web applications  
+📫 Email: **naciimaaahmed@gmail.com**
 
-- 📝 I regularly write articles on [https://naimamuse.substack.com](https://naimamuse.substack.com)
-
-- 📫 How to reach me **naciimaaahmed@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/naima-muse-61228a338/](https://www.linkedin.com/in/naima-muse-61228a338/)
+---
 
 <h3 align="left">Connect with me:</h3>
 
