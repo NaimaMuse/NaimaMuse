@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/naima-muse-61228a338/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naima-muse-61228a338/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/naima-muse-61228a338/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naima-muse-61228a338/" height="30" width="40" /></a> <br>
 <a href="https://fb.com/```md id="fbx91q" https://facebook.com/naimamuseahmed ```" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="```md id="fbx91q" https://facebook.com/naimamuseahmed ```" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/am_naimaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/am_naimaaa" height="30" width="40" /></a>
 </p>
