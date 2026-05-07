@@ -23,12 +23,12 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
 
-  <a href="https://facebook.com/NaimaMuseAhmed" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  <a href="https://www.tiktok.com/@am_naimaaa" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" height="30" width="40" />
   </a>
 
-  <a href="https://instagram.com/am_naimaaa" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  <a href="https://naimamuse.substack.com" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968852.png" height="30" width="40" />
   </a>
 </p>
 
