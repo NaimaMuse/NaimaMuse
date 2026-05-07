@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Finance Registration System](https://github.com/NaimaMuse/ATU-Finance-Registration-System.git)
 
-- 🌱 I’m currently learning **ASP.NET, API, Django**
+- 🌱 I’m currently learning **ASP.NET, API, Django, full-stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NaimaMuse](https://github.com/NaimaMuse)
 
@@ -15,9 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/naima muse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naima muse" height="30" width="40" /></a>
-<a href="https://fb.com/naima muse ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naima muse ahmed" height="30" width="40" /></a>
-<a href="https://instagram.com/miss_nacuumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miss_nacuumi" height="30" width="40" /></a>
+```md id="xka92m"
+<a href="https://www.linkedin.com/in/naima-muse-61228a338/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naima muse" height="30" width="40" /></a>
+```md id="lpq71s"
+<a href="https://facebook.com/NaimaMuseAhmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naima muse ahmed" height="30" width="40" /></a>
+<a href="https://instagram.com/am_naimaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miss_nacuumi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
