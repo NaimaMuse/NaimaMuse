@@ -1,5 +1,3 @@
-![Banner](a_clean_modern_dark_themed_developer_portfolio.png)
-
 <h1 align="center">Hi 👋, I'm Naima Muse</h1>
 <h3 align="center">MERN Stack Developer | Building Modern Web Applications</h3>
 
